@@ -6,6 +6,6 @@
 
    <project name="Amazon-Alexa-Dictionary-and-Thesaurus" remote="MainDir" revision="8ee8b26b39de55dacdf5bf70ab639b81e9e23f78" path="lib/amazon_alexa" />
 
-   <project name=edp" remote="MainDir" revision="ab6ab723ba307e63f4bceba35e9a5b22f9bd1ee7" path="lib/web"/>
+   <project name="edp" remote="MainDir" revision="ab6ab723ba307e63f4bceba35e9a5b22f9bd1ee7" path="lib/web"/>
 
 </manifest>
